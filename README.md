@@ -1,6 +1,6 @@
 # bank-servo1
 Best Arduino project for beginner <br>
-A piggy bank that uses only one IR sensor for sorting coins.
+DIY piggy bank that uses only one IR sensor for sorting coins.
 
 Hardware list </br>
 1.Arduino board </br>
